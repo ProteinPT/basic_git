@@ -31,7 +31,7 @@
 
 
 
-###  (2) Commit을 위한 Stanging: `git init`
+###  (2) Commit을 위한 Staging: `git init`
 
 * 현재 코드 상태의 스냅샷을 찍기 위한 파일 선택 (== Staging Area에 파일 추가)
 
